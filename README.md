@@ -1,5 +1,5 @@
 # Python-Visualization
-This repository includes some examples using '''matplotlib''' and '''pyechart'''.
+This repository includes some examples using `matplotlib` and `pyechart`.
 
 ### 几个用来学习python可视化的网站：
 
