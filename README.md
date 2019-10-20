@@ -6,8 +6,8 @@ This repository includes some examples using `matplotlib` and `pyechart`.
 #### matplotlib
 
 - https://www.matplotlib.org.cn/home.html
-
 - https://www.runoob.com/numpy/numpy-matplotlib.html
+- matplotlib.pyplot中文字体显示：https://blog.csdn.net/weixin_39528941/article/details/83832918
 
 #### pyechart
 
